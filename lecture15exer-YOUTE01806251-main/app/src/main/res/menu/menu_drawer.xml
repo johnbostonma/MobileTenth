@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/messageFragment"
+            android:title="@string/message"
+            android:icon="@drawable/ic_baseline_message_24"/>
+
+    </group>
+
+    <item android:title="Support">
+        <menu>
+            <item
+                android:id="@+id/settingsFragment"
+                android:title="@string/setting"
+                android:icon="@drawable/ic_baseline_settings_24"/>
+
+
+            <item
+                android:id="@+id/helpFragment"
+                android:icon="@drawable/help"
+                android:title="@string/helps" />
+        </menu>
+    </item>
+</menu>

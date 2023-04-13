@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">lecture12Exer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="WelcomeTextview">Welcome to this App to encrypt a secret message, Click the start button to begin</string>
+    <string name="button">Start</string>
+    <string name="Goback">Go Back</string>
+    <string name="message">message</string>
+    <string name="setting">Settings</string>
+    <string name="helps">Help</string>
+    <string name="helpfragment">Help fragment</string>
+    <string name="key">John The Encryptor ahaha</string>
+    <string name="EditextOne">Here is your encrypted message:</string>
+    <string name="button_for_encrypt">ENCRYPT</string>
+    <string name="help">The app is super easy, Just use it</string>
+    <string name="here_encryption">Please enter your secret message</string>
+    <string name="Encrypted_message">jdfnvjenijngigiregjibngjinbgijnbgjinbginb3444irj4ju9rj4fjif</string>
+</resources>
